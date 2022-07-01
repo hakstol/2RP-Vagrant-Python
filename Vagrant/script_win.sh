@@ -1,22 +1,8 @@
-#!/bin/bash
-
-sudo apt-get -y update
-
-sudo apt-get -y install vagrant
-
-sudo apt-get -y install virtualbox
-
-sudo apt-get -y install vim
-
-mkdir vagrant-python
-
-cd vagrant-python
-
 vagrant init centos/7
 
 vagrant plugin install vagrant-disksize
 
-sudo vim Vagrantfile
+start Vagrantfile
 
 # Sobrescrever o arquivo com essa configuração
 
@@ -32,7 +18,7 @@ sudo vim Vagrantfile
   
 # 	  vb.name = "teste-zeppelin"
 # 	  vb.cpus = "2"
-# 	  vb.memory = "8192"
+# 	  vb.memory = "4096"
 #   end
   
 # end
@@ -40,7 +26,3 @@ sudo vim Vagrantfile
 vagrant up
 
 vagrant ssh
-
-
-
-
