@@ -1,6 +1,4 @@
-<h1 align="center">2RP-Vagrant-Python 🌐</h1>
-
-
+<h2 align="center">2RP-Vagrant-Python 🌐</h2>
 
 <h2>Escopo - Task 1</h2>
 
