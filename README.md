@@ -1,4 +1,4 @@
-# 2RP-Vagrant-Python
+2RP-Vagrant-Python
 
 <h1>Escopo - Task 1</h1>
 
