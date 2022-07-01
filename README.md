@@ -1,9 +1,8 @@
 # 2RP-Vagrant-Python
-Repositório destinado aos scripts de configuração dos testes de automatização Vagrant + Python.
 
 <h1>Escopo - Task 1</h1>
 
-<h3>Esse teste tem como objetivo analisar a capacidade de leitura de documentações, configurar serviços e habilidade de automatizar processos utilizando programação em linguagens diversas.</h3>
+<p>Esse teste tem como objetivo analisar a capacidade de leitura de documentações, configurar serviços e habilidade de automatizar processos utilizando programação em linguagens diversas.</p>
 
 <h3>Tarefas:</h3>
 <ol>Criar um script Vagrant que suba uma máquina CentOS 7.x com 2 CPUs (2 cores de processador), 4 GB de memória RAM e 50gb de HD chamada “teste-zeppelin”. O acesso a ela deve ser através de uma chave privada, não com senha.</ol>
