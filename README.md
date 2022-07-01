@@ -1,6 +1,8 @@
-<h2 align="center">2RP-Vagrant-Python 🌐</h2>
+<h1 align="center">2RP-Vagrant-Python 🌐</h1>
 
-<h2>Escopo - Task 1</h2>
+<h4></h4>
+
+<h3>Escopo - Task 1</h3>
 
 <p>Esse teste tem como objetivo analisar a capacidade de leitura de documentações, configurar serviços e habilidade de automatizar processos utilizando programação em linguagens diversas.</p>
 
